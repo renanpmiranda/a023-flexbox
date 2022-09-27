@@ -28,12 +28,12 @@ section{
 
 #section-2{
   order: 2;
-  flex-grow: 1;
+  flex-grow: calc(2/5);
 }
 
 #section-3{
   order: 3;
-  flex-grow: 2;
+  flex-grow: calc(3/5);
 }
 
 #section-4{

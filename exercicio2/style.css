@@ -5,7 +5,7 @@
 
 main{
   padding-top: 20px;
-  margin: 32px;
+  margin-left: 32px;
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
